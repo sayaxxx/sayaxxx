@@ -6,12 +6,14 @@
 
 ## I'm a Backend Developer
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - 🌱 I am currently learning more about backend development in CampusLand.
 - ✏️ I'm learning frontend and backend technologies
 - 👕 CEO & founder of @sayax.clothing
 - 📸 Fun fact: I like design and photography.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
@@ -30,5 +32,15 @@
   </p>
 </h1>
 
-<hr>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+
 
