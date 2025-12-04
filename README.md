@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I am currently learning more about backend development in CampusLand.
+- 🌱 I am currently learning more about backend development in SENA.
 - ✏️ I'm learning frontend and backend technologies
 - 👕 CEO & founder of @sayax.clothing
 - 📸 Fun fact: I like design and photography.
